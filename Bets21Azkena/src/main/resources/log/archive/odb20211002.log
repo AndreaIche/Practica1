@@ -1,0 +1,1794 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:00:46 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31662@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:00:47 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:00:47 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:00:47 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:00:47 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:00:47 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:00:47 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:00:47 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:00:47 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:00:47 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:00:47 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:00:47 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:00:47 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:00:47 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:00:47 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:00:47 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:00:47 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:00:47 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:00:47 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:00:47 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:00:47 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:00:47 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:00:47 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:00:47 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:00:47 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:00:47 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:00:47 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:00:47 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:00:47 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:00:47 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:00:47 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:00:47 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:00:47 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:00:47 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:00:47 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:00:47 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:00:47 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:04:35 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31739@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:04:35 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:04:35 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:04:35 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:04:35 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:04:35 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:04:35 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:04:35 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:04:35 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:04:35 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:04:35 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:04:35 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:04:35 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:04:35 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:04:35 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:04:35 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:04:35 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:04:35 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:04:35 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:04:35 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:04:35 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:04:35 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:04:35 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:04:35 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:04:35 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:04:35 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:04:35 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:04:35 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:04:35 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:04:35 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:04:35 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:04:35 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:04:35 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:04:35 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:04:35 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:04:35 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:04:35 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:06:40 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31791@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:06:40 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:06:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:06:40 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:06:40 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:06:40 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:06:40 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:06:40 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:06:40 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:06:40 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:06:40 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:06:40 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:06:40 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:06:40 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:06:40 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:06:40 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:06:40 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:06:40 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:06:40 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:06:40 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:06:40 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:06:40 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:06:40 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:06:40 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:06:40 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:06:40 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:06:40 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:06:40 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:06:40 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:06:40 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:06:40 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:06:40 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:06:40 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:06:40 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:06:40 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:06:40 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:06:40 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:06:45 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31799@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:06:45 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:06:45 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:06:45 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:06:45 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:06:45 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:06:45 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:06:45 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:06:45 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:06:45 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:06:45 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:06:45 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:06:45 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:06:45 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:06:45 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:06:45 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:06:45 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:06:45 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:06:45 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:06:45 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:06:45 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:06:45 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:06:45 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:06:45 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:06:45 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:06:45 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:06:45 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:06:45 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:06:45 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:06:45 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:06:45 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:06:45 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:06:45 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:06:45 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:06:45 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:06:45 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:06:45 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:07:04 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31806@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:07:04 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:07:04 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:07:04 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:07:04 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:07:04 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:07:04 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:07:04 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:07:04 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:07:04 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:07:04 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:07:04 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:07:04 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:07:04 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:07:04 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:07:04 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:07:04 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:07:04 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:07:04 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:07:04 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:07:04 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:07:04 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:07:04 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:07:04 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:07:04 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:07:04 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:07:04 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:07:04 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:07:04 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:07:04 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:07:04 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:07:04 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:07:04 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:07:04 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:07:04 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:07:04 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:07:04 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:09:53 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31867@MacBook-Pro-de-Andrea.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:10:20 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31881@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:10:21 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:10:21 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:10:21 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:10:21 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:10:21 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:10:21 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:10:21 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:10:21 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:10:21 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:10:21 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:10:21 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:10:21 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:10:21 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:10:21 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:10:21 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:10:21 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:10:21 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:10:21 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:10:21 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:10:21 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:10:21 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:10:21 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:10:21 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:10:21 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:10:21 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:10:21 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:10:21 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:10:21 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:10:21 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:10:21 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:10:21 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:10:21 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:10:21 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:10:21 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:10:21 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:10:21 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:13:04 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 31936@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:13:04 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:13:04 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:13:04 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:13:04 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:13:04 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:13:04 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:13:04 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:13:04 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:13:04 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:13:04 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:13:04 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:13:04 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:13:04 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:13:04 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:13:04 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:13:04 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:13:04 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:13:04 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:13:04 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:13:04 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:13:04 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:13:04 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:13:04 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:13:04 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:13:04 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:13:04 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:13:04 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:13:04 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:13:04 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:13:04 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:13:04 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:13:04 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:13:04 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:13:04 #37 type.registry] 
+New type int[]
+
+[2021-10-02 12:13:04 #38 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:13:04 #39 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:13:04 #40 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:13:04 #41 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:13:04 #42 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #43 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:13:04 #44 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:13:04 #45 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #46 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:13:04 #47 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:13:04 #48 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:13:04 #49 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:13:04 #50 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:13:04 #51 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:13:04 #52 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:13:04 #53 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:13:04 #54 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:13:04 #55 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:13:04 #56 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:13:04 #57 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:13:04 #58 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:13:04 #59 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:13:04 #60 type.registry] 
+New type int[]
+
+[2021-10-02 12:13:04 #61 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:13:04 #62 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:13:04 #63 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:13:04 #64 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:13:04 #65 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #66 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:13:04 #67 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:13:04 #68 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #69 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:13:04 #70 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:13:04 #71 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:13:04 #72 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:13:04 #73 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:13:04 #74 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:13:04 #75 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:13:04 #76 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:13:04 #77 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:13:04 #78 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:13:04 #79 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:13:04 #80 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:13:04 #81 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:13:04 #82 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:13:04 #83 type.registry] 
+New type int[]
+
+[2021-10-02 12:13:04 #84 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:13:04 #85 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:13:04 #86 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:13:04 #87 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:13:04 #88 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #89 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:13:04 #90 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:13:04 #91 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:13:04 #92 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:13:04 #93 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:13:04 #94 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:13:04 #95 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:13:04 #96 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:13:04 #97 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:13:04 #98 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:13:04 #99 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:13:04 #100 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:13:04 #101 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:13:04 #102 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:13:04 #103 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:13:04 #104 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:13:04 #105 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:13:04 #106 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:21:08 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32100@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:21:09 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:21:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:21:09 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:21:09 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:21:09 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:21:09 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:21:09 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:21:09 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:21:09 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:21:09 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:21:09 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:21:09 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:21:09 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:21:09 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:21:09 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:21:09 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:21:09 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:21:09 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:21:09 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:21:09 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:21:09 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:21:09 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:21:09 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:21:09 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:21:09 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:21:09 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:21:09 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:21:09 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:21:09 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:21:09 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:21:09 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:21:09 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:21:09 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:21:09 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:21:09 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:21:09 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:21:44 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32127@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:21:44 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:21:44 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:21:44 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:21:44 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:21:44 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:21:44 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:21:44 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:21:44 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:21:44 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:21:44 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:21:44 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:21:44 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:21:44 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:21:44 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:21:44 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:21:44 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:21:44 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:21:44 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:21:44 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:21:44 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:21:44 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:21:44 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:21:44 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:21:44 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:21:44 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:21:44 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:21:44 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:21:44 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:21:44 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:21:44 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:21:44 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:21:44 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:21:44 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:21:44 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:21:44 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:21:44 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:23:41 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32163@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:23:41 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:23:41 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:23:41 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:23:41 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:23:41 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:23:41 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:23:41 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:23:41 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:23:41 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:23:41 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:23:41 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:23:41 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:23:41 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:23:41 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:23:41 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:23:41 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:23:41 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:23:41 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:23:41 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:23:41 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:23:41 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:23:41 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:23:41 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:23:41 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:23:41 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:23:41 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:23:41 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:23:41 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:23:41 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:23:41 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:23:41 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:23:41 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:23:41 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:23:41 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:23:41 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:23:41 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:25:11 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32197@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:25:11 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:25:11 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:25:11 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:25:11 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:25:11 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:25:11 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:25:11 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:25:11 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:25:11 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:25:11 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:25:11 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:25:11 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:25:11 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:25:11 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:25:11 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:25:11 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:25:11 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:25:11 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:25:11 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:25:11 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:25:11 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:25:11 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:25:11 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:25:11 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:25:11 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:25:11 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:25:11 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:25:11 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:25:11 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:25:11 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:25:11 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:25:11 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:25:11 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:25:11 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:25:11 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:25:11 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:29:41 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32313@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:29:41 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:29:41 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:29:41 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:29:41 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:29:41 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:29:41 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:29:41 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:29:41 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:29:41 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:29:41 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:29:41 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:29:41 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:29:41 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:29:41 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:29:41 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:29:41 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:29:41 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:29:41 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:29:41 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:29:41 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:29:41 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:29:41 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:29:41 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:29:41 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:29:41 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:29:41 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:29:41 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:29:41 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:29:41 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:29:41 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:29:41 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:29:41 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:29:41 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:29:41 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:29:41 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:29:41 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:31:08 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32355@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:31:08 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:31:08 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:31:08 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:31:08 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:31:08 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:31:08 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:31:08 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:31:08 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:31:08 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:31:08 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:31:08 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:31:08 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:31:08 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:31:08 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:31:08 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:31:08 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:31:08 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:31:08 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:31:08 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:31:08 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:31:08 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:31:08 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:31:08 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:31:08 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:31:08 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:31:08 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:31:08 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:31:08 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:31:08 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:31:08 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:31:08 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:31:08 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:31:08 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:31:08 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:31:08 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:31:08 #37 type.registry] 
+New type int[]
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 12:33:37 #1 store] 
+Database '/Users/andreagarciaiche/Desktop/IS2/PROYECTO/Bets21Azkena/src/main/resources/bets.temp' is opened by 32428@MacBook-Pro-de-Andrea.local
+
+[2021-10-02 12:33:37 #2 type.registry] 
+New type domain.Event
+
+[2021-10-02 12:33:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2021-10-02 12:33:37 #4 type.registry] 
+New type domain.Question
+
+[2021-10-02 12:33:37 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-10-02 12:33:37 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 12:33:37 #7 type.registry] 
+New type domain.Pronostikoa
+
+[2021-10-02 12:33:37 #8 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-10-02 12:33:37 #9 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-10-02 12:33:37 #10 type.registry] 
+New type domain.Apustua
+
+[2021-10-02 12:33:37 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-10-02 12:33:37 #12 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-10-02 12:33:37 #13 type.registry] 
+New type java.util.ArrayList<domain.Pronostikoa>
+
+[2021-10-02 12:33:37 #14 type.registry] 
+New type domain.Pertsona
+
+[2021-10-02 12:33:37 #15 type.registry] 
+New type domain.Bezeroa
+
+[2021-10-02 12:33:37 #16 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-10-02 12:33:37 #17 type] 
+Type domain.Bezeroa is not enhanced.
+
+[2021-10-02 12:33:37 #18 type.registry] 
+New type domain.ArretaElkarrizketa
+
+[2021-10-02 12:33:37 #19 type.registry] 
+New type java.util.Vector<domain.ArretaElkarrizketa>
+
+[2021-10-02 12:33:37 #20 type.registry] 
+New type domain.Errepikapena
+
+[2021-10-02 12:33:37 #21 type.registry] 
+New type java.util.Vector<domain.Errepikapena>
+
+[2021-10-02 12:33:37 #22 type.registry] 
+New type domain.Mezua
+
+[2021-10-02 12:33:37 #23 type.registry] 
+New type domain.BezeroartekoMezua
+
+[2021-10-02 12:33:37 #24 type.registry] 
+New type java.util.Vector<domain.BezeroartekoMezua>
+
+[2021-10-02 12:33:37 #25 type.registry] 
+New type domain.Mugimendua
+
+[2021-10-02 12:33:37 #26 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-10-02 12:33:37 #27 type] 
+Type domain.ArretaElkarrizketa is not enhanced.
+
+[2021-10-02 12:33:37 #28 type.registry] 
+New type domain.ArretaMezua
+
+[2021-10-02 12:33:37 #29 type.registry] 
+New type java.util.Vector<domain.ArretaMezua>
+
+[2021-10-02 12:33:37 #30 type.registry] 
+New type domain.Langilea
+
+[2021-10-02 12:33:37 #31 type] 
+Type domain.Errepikapena is not enhanced.
+
+[2021-10-02 12:33:37 #32 type] 
+Type domain.Mezua is not enhanced.
+
+[2021-10-02 12:33:37 #33 type] 
+Type domain.BezeroartekoMezua is not enhanced.
+
+[2021-10-02 12:33:37 #34 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-10-02 12:33:37 #35 type] 
+Type domain.ArretaMezua is not enhanced.
+
+[2021-10-02 12:33:37 #36 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-10-02 12:33:37 #37 type.registry] 
+New type int[]
+
